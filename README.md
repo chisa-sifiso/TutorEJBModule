@@ -105,7 +105,7 @@ tutorFacade.create(tutor);
   </ul>
 
   <h2>Credits</h2>
-  <p>This project was developed by [Your Name] as part of a Java EE and JPA learning module.</p>
+  <p>This project was developed by Sifiso Vinjwa as part of a Java EE and JPA learning module.</p>
 
 </body>
 </html>
